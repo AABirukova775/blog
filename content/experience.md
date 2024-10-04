@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Опыт'
 date: 2023-10-24
 type: landing
 
@@ -20,16 +20,16 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Навыки и хобби
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Awards
+      title: Награды
       username: admin
   - block: resume-languages
     content:
-      title: Languages
+      title: Владения языками
       username: admin
 ---
